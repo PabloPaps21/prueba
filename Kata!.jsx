@@ -7,3 +7,4 @@ function convertidor(velocidad){
   return nuevaVel;
 }
 convertidor(1.08);
+// esto en realidad funciona
